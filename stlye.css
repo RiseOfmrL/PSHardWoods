@@ -1,0 +1,52 @@
+.Logo {
+
+display:flex;
+align-content: center;
+
+
+
+}
+
+.logoimg {
+
+display:flex;
+width: 40%;
+height:auto;
+
+
+
+}
+
+.wholenavbar {
+
+display:flex;
+justify-content:center;
+
+
+}
+
+.navbar {
+
+display:flex; 
+align-content:center;
+align-self:center;
+justify-self:center;
+justify-content: center;
+width:90%;
+height:70px;
+gap:9%;
+background-color: crimson;
+
+
+
+
+
+}
+
+.navitem {
+
+display:flex;
+align-self:center;
+
+
+}
