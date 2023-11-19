@@ -1,7 +1,16 @@
+body {
+
+background-image: url(imgs/Hard_Maple_Highlight.webp) ;
+
+
+}
+
+
 .Logo {
 
 display:flex;
 align-content: center;
+justify-content: center;
 
 
 
@@ -35,7 +44,7 @@ justify-content: center;
 width:90%;
 height:70px;
 gap:9%;
-background-color: crimson;
+background-image: url(imgs/natural-cherry-swatch_large_b104017a-d2ae-4817-9a35-cc3660190f5a.webp);
 
 
 
@@ -47,6 +56,77 @@ background-color: crimson;
 
 display:flex;
 align-self:center;
+
+
+}
+
+.wholeAboutMe {
+
+display:flex;
+justify-content:center;
+
+
+}
+
+.AboutMe {
+
+    display:flex;
+    text-align: center;
+    width:80%;
+    justify-content: center;
+    background-image: url(imgs/Walnut_Natural.jpg);
+    margin-top: 1%;
+    align-self: center;
+
+
+
+}
+
+.AboutMeL {
+
+    display:flex;
+    flex-direction: column;
+    align-self: center;
+    justify-content: center;
+    width:40%;
+    background-image: url(imgs/Hard_Maple_Highlight.webp);
+    margin:2%;
+
+}
+
+.title {
+
+background-image: url(imgs/natural-cherry-swatch_large_b104017a-d2ae-4817-9a35-cc3660190f5a.webp);
+padding: 1%;
+margin-top:0px;
+
+}
+
+.aboutmedesc {
+
+    display:flex;
+    align-self:center;
+
+
+}
+
+.AboutMeR {
+
+    display:flex;
+
+
+}
+
+.aboutmeimg {
+
+    display:flex;
+
+
+}
+
+.footer {
+
+    display:flex;
 
 
 }
