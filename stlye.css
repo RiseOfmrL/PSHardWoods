@@ -58,7 +58,32 @@ display:flex;
 align-self:center;
 background-image: url(imgs/natural-cherry-swatch_large_b104017a-d2ae-4817-9a35-cc3660190f5a.webp);
 padding:1%;
-font-size: 20px;
+font-size: 2vw;
+
+
+}
+
+.links {
+
+
+
+    text-decoration: none;
+
+
+
+}
+
+a {
+
+    color: #221704;
+
+
+
+}
+
+a:hover {
+
+    color:#d4cfc6;
 
 
 }
@@ -103,7 +128,7 @@ justify-content:center;
 background-image: url(imgs/natural-cherry-swatch_large_b104017a-d2ae-4817-9a35-cc3660190f5a.webp);
 padding: 1%;
 margin-top:0px;
-font-size: 15px;
+font-size: 2vw;
 
 }
 
@@ -111,7 +136,7 @@ font-size: 15px;
 
     display:flex;
     align-self:center;
-    font-size:12px;
+    font-size:1vw;
 
 
 }
