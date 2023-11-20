@@ -19,7 +19,8 @@ justify-content: center;
 .logoimg {
 
 display:flex;
-width: 40%;
+width: 30vw;
+height:30vh;
 height:auto;
 
 
@@ -42,7 +43,7 @@ align-self:center;
 justify-self:center;
 justify-content: center;
 width:90%;
-height:70px;
+height:10vh;
 gap:9%;
 background-image: url(imgs/Walnut_Natural.jpg);
 
