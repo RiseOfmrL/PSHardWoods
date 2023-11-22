@@ -176,9 +176,9 @@ font-size: 2vw;
     display:flex;
     justify-content: space-between;
     background-image: url(imgs/natural-cherry-swatch_large_b104017a-d2ae-4817-9a35-cc3660190f5a.webp) ;
-    position: absolute;
     bottom:0;
     width:100%;
+    margin-top:2%;
 
 }
 
@@ -206,5 +206,78 @@ font-size: 2vw;
     display:flex;
     font-size: 1vw;
 
+
+}
+
+.wholePortfolio {
+
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+
+.Row {
+
+    display:flex;
+    gap:10%;
+    justify-content: center;
+    align-items: center;
+    margin-top:2%;
+    
+   
+
+
+}
+
+
+.firstImg {
+
+    display:flex;
+    flex-direction: column;
+    
+
+}
+
+
+.secondImg {
+
+    display:flex;
+    
+
+}
+
+.thirdImg {
+
+    display:flex;
+    
+
+}
+
+.portfolioImgrotate {
+
+    display:flex;
+    width:20vw;
+    transform: rotate(90deg);
+    margin-left:20%;
+
+
+}
+
+.portfolioImg {
+
+
+
+    display:flex;
+    width:20vw;
+    height:20vw;
+
+
+}
+
+.portfolioImgDescription {
+
+    display:flex;
+    width:20vm;
+    font-size: 1vw;
 
 }
