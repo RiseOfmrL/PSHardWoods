@@ -258,10 +258,23 @@ font-size: 2vw;
     text-align: center;
     background-image: url(imgs/natural-cherry-swatch_large_b104017a-d2ae-4817-9a35-cc3660190f5a.webp);
     margin-bottom:5%;
-    height:22vh;
+    height:18vh;
 
 }
 
+.descriptionRowBig {
+
+    display:flex;
+    gap:10%;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-image: url(imgs/natural-cherry-swatch_large_b104017a-d2ae-4817-9a35-cc3660190f5a.webp);
+    margin-bottom:5%;
+    height:22vh;
+
+
+}
 
 .firstImg {
 
