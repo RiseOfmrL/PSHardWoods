@@ -222,6 +222,7 @@ font-size: 2vw;
     align-self: center;
     justify-self: center;
     justify-items: center;
+    border: solid black 2px;
 }
 
 .PortfolioRows {
@@ -317,6 +318,7 @@ font-size: 2vw;
     display:flex;
     width:20vw;
     height:20vw;
+    border: solid black 2px;
 
 
 }
@@ -326,5 +328,6 @@ font-size: 2vw;
     display:flex;
     width:20vw;
     font-size: 1vw;
+    
 
 }
