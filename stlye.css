@@ -331,3 +331,54 @@ font-size: 2vw;
     
 
 }
+
+.wholeLink {
+    display:flex;
+    background-image: url(imgs/Walnut_Natural.jpg);
+    margin-top:2%;
+    border: solid black 2px;
+
+
+}
+
+
+.Instagram {
+
+    display:flex;
+    justify-content: center;
+    align-items: center;
+   
+
+
+}
+
+
+.logolink {
+
+    display:flex;
+ 
+
+
+}
+
+.linkImg {
+
+
+    display:flex;
+    width:2vw;
+    height:auto;
+    align-self:center;
+
+
+
+}
+
+.instapara {
+
+    display:flex;
+    background-image: url(imgs/natural-cherry-swatch_large_b104017a-d2ae-4817-9a35-cc3660190f5a.webp) ;
+    align-items: center;
+    padding:1%;
+    margin-left:1%; 
+
+}
