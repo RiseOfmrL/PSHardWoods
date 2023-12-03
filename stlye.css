@@ -337,6 +337,7 @@ font-size: 2vw;
     background-image: url(imgs/Walnut_Natural.jpg);
     margin-top:2%;
     border: solid black 2px;
+    justify-content:center;
 
 
 }
@@ -386,5 +387,23 @@ font-size: 2vw;
 .linklink {
 
     font-size:1vw;
+
+}
+
+.wholelinkdescription {
+
+    display:flex;
+    background-image: url(imgs/natural-cherry-swatch_large_b104017a-d2ae-4817-9a35-cc3660190f5a.webp);
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: solid black 2px;
+}
+
+.linkdescription {
+
+    display:flex;
+    text-align:center;
+
 
 }
