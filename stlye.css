@@ -420,3 +420,23 @@ border:solid black 2px;
 
 
 }
+
+.Waximgsect {
+
+    display:flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.WaxImg {
+
+
+    display:flex;
+    width:30vw;
+    height:50vh;
+    justify-content: center;
+    margin-left: 1vw;
+
+
+}
